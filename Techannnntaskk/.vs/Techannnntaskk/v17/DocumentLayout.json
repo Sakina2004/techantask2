@@ -1,46 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Classtime\\Desktop\\Techantaskk\\Techannnntaskk\\",
+  "WorkspaceRootPath": "C:\\Users\\ClassTime\\Desktop\\techantask2\\Techannnntaskk\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD826045-5935-47B6-AB99-6F4EA5E72387}|Techannnntaskk\\Techannnntaskk.csproj|c:\\users\\classtime\\desktop\\techantaskk\\techannnntaskk\\techannnntaskk\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD826045-5935-47B6-AB99-6F4EA5E72387}|Techannnntaskk\\Techannnntaskk.csproj|solutionrelative:techannnntaskk\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD826045-5935-47B6-AB99-6F4EA5E72387}|Techannnntaskk\\Techannnntaskk.csproj|c:\\users\\classtime\\desktop\\techantask2\\techannnntaskk\\techannnntaskk\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD826045-5935-47B6-AB99-6F4EA5E72387}|Techannnntaskk\\Techannnntaskk.csproj|solutionrelative:techannnntaskk\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD826045-5935-47B6-AB99-6F4EA5E72387}|Techannnntaskk\\Techannnntaskk.csproj|c:\\users\\classtime\\desktop\\techantaskk\\techannnntaskk\\techannnntaskk\\models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD826045-5935-47B6-AB99-6F4EA5E72387}|Techannnntaskk\\Techannnntaskk.csproj|solutionrelative:techannnntaskk\\models\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD826045-5935-47B6-AB99-6F4EA5E72387}|Techannnntaskk\\Techannnntaskk.csproj|c:\\users\\classtime\\desktop\\techantask2\\techannnntaskk\\techannnntaskk\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD826045-5935-47B6-AB99-6F4EA5E72387}|Techannnntaskk\\Techannnntaskk.csproj|solutionrelative:techannnntaskk\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD826045-5935-47B6-AB99-6F4EA5E72387}|Techannnntaskk\\Techannnntaskk.csproj|c:\\users\\classtime\\desktop\\techantaskk\\techannnntaskk\\techannnntaskk\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CD826045-5935-47B6-AB99-6F4EA5E72387}|Techannnntaskk\\Techannnntaskk.csproj|c:\\users\\classtime\\desktop\\techantask2\\techannnntaskk\\techannnntaskk\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CD826045-5935-47B6-AB99-6F4EA5E72387}|Techannnntaskk\\Techannnntaskk.csproj|solutionrelative:techannnntaskk\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD826045-5935-47B6-AB99-6F4EA5E72387}|Techannnntaskk\\Techannnntaskk.csproj|c:\\users\\classtime\\desktop\\techantaskk\\techannnntaskk\\techannnntaskk\\dataacceslayer\\techandbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD826045-5935-47B6-AB99-6F4EA5E72387}|Techannnntaskk\\Techannnntaskk.csproj|solutionrelative:techannnntaskk\\dataacceslayer\\techandbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD826045-5935-47B6-AB99-6F4EA5E72387}|Techannnntaskk\\Techannnntaskk.csproj|c:\\users\\classtime\\desktop\\techantask2\\techannnntaskk\\techannnntaskk\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD826045-5935-47B6-AB99-6F4EA5E72387}|Techannnntaskk\\Techannnntaskk.csproj|solutionrelative:techannnntaskk\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD826045-5935-47B6-AB99-6F4EA5E72387}|Techannnntaskk\\Techannnntaskk.csproj|c:\\users\\classtime\\desktop\\techantaskk\\techannnntaskk\\techannnntaskk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD826045-5935-47B6-AB99-6F4EA5E72387}|Techannnntaskk\\Techannnntaskk.csproj|solutionrelative:techannnntaskk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD826045-5935-47B6-AB99-6F4EA5E72387}|Techannnntaskk\\Techannnntaskk.csproj|c:\\users\\classtime\\desktop\\techantaskk\\techannnntaskk\\techannnntaskk\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CD826045-5935-47B6-AB99-6F4EA5E72387}|Techannnntaskk\\Techannnntaskk.csproj|c:\\users\\classtime\\desktop\\techantask2\\techannnntaskk\\techannnntaskk\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD826045-5935-47B6-AB99-6F4EA5E72387}|Techannnntaskk\\Techannnntaskk.csproj|solutionrelative:techannnntaskk\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD826045-5935-47B6-AB99-6F4EA5E72387}|Techannnntaskk\\Techannnntaskk.csproj|c:\\users\\classtime\\desktop\\techantaskk\\techannnntaskk\\techannnntaskk\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD826045-5935-47B6-AB99-6F4EA5E72387}|Techannnntaskk\\Techannnntaskk.csproj|solutionrelative:techannnntaskk\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CD826045-5935-47B6-AB99-6F4EA5E72387}|Techannnntaskk\\Techannnntaskk.csproj|c:\\users\\classtime\\desktop\\techantask2\\techannnntaskk\\techannnntaskk\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD826045-5935-47B6-AB99-6F4EA5E72387}|Techannnntaskk\\Techannnntaskk.csproj|solutionrelative:techannnntaskk\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD826045-5935-47B6-AB99-6F4EA5E72387}|Techannnntaskk\\Techannnntaskk.csproj|c:\\users\\classtime\\desktop\\techantaskk\\techannnntaskk\\techannnntaskk\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CD826045-5935-47B6-AB99-6F4EA5E72387}|Techannnntaskk\\Techannnntaskk.csproj|c:\\users\\classtime\\desktop\\techantask2\\techannnntaskk\\techannnntaskk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD826045-5935-47B6-AB99-6F4EA5E72387}|Techannnntaskk\\Techannnntaskk.csproj|solutionrelative:techannnntaskk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD826045-5935-47B6-AB99-6F4EA5E72387}|Techannnntaskk\\Techannnntaskk.csproj|c:\\users\\classtime\\desktop\\techantask2\\techannnntaskk\\techannnntaskk\\migrations\\20250505130651_createdsliderstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD826045-5935-47B6-AB99-6F4EA5E72387}|Techannnntaskk\\Techannnntaskk.csproj|solutionrelative:techannnntaskk\\migrations\\20250505130651_createdsliderstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD826045-5935-47B6-AB99-6F4EA5E72387}|Techannnntaskk\\Techannnntaskk.csproj|c:\\users\\classtime\\desktop\\techantask2\\techannnntaskk\\techannnntaskk\\migrations\\techandbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD826045-5935-47B6-AB99-6F4EA5E72387}|Techannnntaskk\\Techannnntaskk.csproj|solutionrelative:techannnntaskk\\migrations\\techandbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD826045-5935-47B6-AB99-6F4EA5E72387}|Techannnntaskk\\Techannnntaskk.csproj|c:\\users\\classtime\\desktop\\techantask2\\techannnntaskk\\techannnntaskk\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CD826045-5935-47B6-AB99-6F4EA5E72387}|Techannnntaskk\\Techannnntaskk.csproj|solutionrelative:techannnntaskk\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD826045-5935-47B6-AB99-6F4EA5E72387}|Techannnntaskk\\Techannnntaskk.csproj|c:\\users\\classtime\\desktop\\techantaskk\\techannnntaskk\\techannnntaskk\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD826045-5935-47B6-AB99-6F4EA5E72387}|Techannnntaskk\\Techannnntaskk.csproj|solutionrelative:techannnntaskk\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD826045-5935-47B6-AB99-6F4EA5E72387}|Techannnntaskk\\Techannnntaskk.csproj|c:\\users\\classtime\\desktop\\techantask2\\techannnntaskk\\techannnntaskk\\dataacceslayer\\techandbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD826045-5935-47B6-AB99-6F4EA5E72387}|Techannnntaskk\\Techannnntaskk.csproj|solutionrelative:techannnntaskk\\dataacceslayer\\techandbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD826045-5935-47B6-AB99-6F4EA5E72387}|Techannnntaskk\\Techannnntaskk.csproj|c:\\users\\classtime\\desktop\\techantaskk\\techannnntaskk\\techannnntaskk\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CD826045-5935-47B6-AB99-6F4EA5E72387}|Techannnntaskk\\Techannnntaskk.csproj|c:\\users\\classtime\\desktop\\techantask2\\techannnntaskk\\techannnntaskk\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD826045-5935-47B6-AB99-6F4EA5E72387}|Techannnntaskk\\Techannnntaskk.csproj|solutionrelative:techannnntaskk\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD826045-5935-47B6-AB99-6F4EA5E72387}|Techannnntaskk\\Techannnntaskk.csproj|c:\\users\\classtime\\desktop\\techantask2\\techannnntaskk\\techannnntaskk\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CD826045-5935-47B6-AB99-6F4EA5E72387}|Techannnntaskk\\Techannnntaskk.csproj|solutionrelative:techannnntaskk\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD826045-5935-47B6-AB99-6F4EA5E72387}|Techannnntaskk\\Techannnntaskk.csproj|c:\\users\\classtime\\desktop\\techantask2\\techannnntaskk\\techannnntaskk\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD826045-5935-47B6-AB99-6F4EA5E72387}|Techannnntaskk\\Techannnntaskk.csproj|solutionrelative:techannnntaskk\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD826045-5935-47B6-AB99-6F4EA5E72387}|Techannnntaskk\\Techannnntaskk.csproj|c:\\users\\classtime\\desktop\\techantask2\\techannnntaskk\\techannnntaskk\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD826045-5935-47B6-AB99-6F4EA5E72387}|Techannnntaskk\\Techannnntaskk.csproj|solutionrelative:techannnntaskk\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,60 +70,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Techantaskk\\Techannnntaskk\\Techannnntaskk\\Models\\Common\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "Techannnntaskk\\Models\\Common\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Techantaskk\\Techannnntaskk\\Techannnntaskk\\Models\\Common\\BaseEntity.cs",
-              "RelativeToolTip": "Techannnntaskk\\Models\\Common\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T16:27:53.06Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Slider.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Techantaskk\\Techannnntaskk\\Techannnntaskk\\Models\\Slider.cs",
-              "RelativeDocumentMoniker": "Techannnntaskk\\Models\\Slider.cs",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Techantaskk\\Techannnntaskk\\Techannnntaskk\\Models\\Slider.cs",
-              "RelativeToolTip": "Techannnntaskk\\Models\\Slider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T16:27:19.956Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TechanDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Techantaskk\\Techannnntaskk\\Techannnntaskk\\DataAccesLayer\\TechanDbContext.cs",
-              "RelativeDocumentMoniker": "Techannnntaskk\\DataAccesLayer\\TechanDbContext.cs",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Techantaskk\\Techannnntaskk\\Techannnntaskk\\DataAccesLayer\\TechanDbContext.cs",
-              "RelativeToolTip": "Techannnntaskk\\DataAccesLayer\\TechanDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T16:04:52.98Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Techantaskk\\Techannnntaskk\\Techannnntaskk\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\techantask2\\Techannnntaskk\\Techannnntaskk\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "RelativeDocumentMoniker": "Techannnntaskk\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Techantaskk\\Techannnntaskk\\Techannnntaskk\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\techantask2\\Techannnntaskk\\Techannnntaskk\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "RelativeToolTip": "Techannnntaskk\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACYAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-01T15:40:18.54Z",
               "EditorCaption": ""
@@ -111,10 +88,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\techantask2\\Techannnntaskk\\Techannnntaskk\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "Techannnntaskk\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\techantask2\\Techannnntaskk\\Techannnntaskk\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "Techannnntaskk\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T13:35:03.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Techantaskk\\Techannnntaskk\\Techannnntaskk\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\techantask2\\Techannnntaskk\\Techannnntaskk\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "Techannnntaskk\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Techantaskk\\Techannnntaskk\\Techannnntaskk\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\techantask2\\Techannnntaskk\\Techannnntaskk\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "RelativeToolTip": "Techannnntaskk\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -123,11 +113,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\techantask2\\Techannnntaskk\\Techannnntaskk\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Techannnntaskk\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\techantask2\\Techannnntaskk\\Techannnntaskk\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Techannnntaskk\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T14:27:06.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Techantaskk\\Techannnntaskk\\Techannnntaskk\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\techantask2\\Techannnntaskk\\Techannnntaskk\\Program.cs",
               "RelativeDocumentMoniker": "Techannnntaskk\\Program.cs",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Techantaskk\\Techannnntaskk\\Techannnntaskk\\Program.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\techantask2\\Techannnntaskk\\Techannnntaskk\\Program.cs",
               "RelativeToolTip": "Techannnntaskk\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -136,11 +139,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Techantaskk\\Techannnntaskk\\Techannnntaskk\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\techantask2\\Techannnntaskk\\Techannnntaskk\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Techannnntaskk\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\techantask2\\Techannnntaskk\\Techannnntaskk\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Techannnntaskk\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T13:37:32.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\techantask2\\Techannnntaskk\\Techannnntaskk\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "RelativeDocumentMoniker": "Techannnntaskk\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\techantask2\\Techannnntaskk\\Techannnntaskk\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "RelativeToolTip": "Techannnntaskk\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T15:23:39.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250505130651_CreatedSlidersTable.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\techantask2\\Techannnntaskk\\Techannnntaskk\\Migrations\\20250505130651_CreatedSlidersTable.cs",
+              "RelativeDocumentMoniker": "Techannnntaskk\\Migrations\\20250505130651_CreatedSlidersTable.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\techantask2\\Techannnntaskk\\Techannnntaskk\\Migrations\\20250505130651_CreatedSlidersTable.cs",
+              "RelativeToolTip": "Techannnntaskk\\Migrations\\20250505130651_CreatedSlidersTable.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T13:06:52.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TechanDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\techantask2\\Techannnntaskk\\Techannnntaskk\\Migrations\\TechanDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Techannnntaskk\\Migrations\\TechanDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\techantask2\\Techannnntaskk\\Techannnntaskk\\Migrations\\TechanDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Techannnntaskk\\Migrations\\TechanDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T13:33:17.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\techantask2\\Techannnntaskk\\Techannnntaskk\\Models\\Slider.cs",
+              "RelativeDocumentMoniker": "Techannnntaskk\\Models\\Slider.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\techantask2\\Techannnntaskk\\Techannnntaskk\\Models\\Slider.cs",
+              "RelativeToolTip": "Techannnntaskk\\Models\\Slider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T16:27:19.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TechanDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\techantask2\\Techannnntaskk\\Techannnntaskk\\DataAccesLayer\\TechanDbContext.cs",
+              "RelativeDocumentMoniker": "Techannnntaskk\\DataAccesLayer\\TechanDbContext.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\techantask2\\Techannnntaskk\\Techannnntaskk\\DataAccesLayer\\TechanDbContext.cs",
+              "RelativeToolTip": "Techannnntaskk\\DataAccesLayer\\TechanDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T16:04:52.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\techantask2\\Techannnntaskk\\Techannnntaskk\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Techannnntaskk\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Techantaskk\\Techannnntaskk\\Techannnntaskk\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\techantask2\\Techannnntaskk\\Techannnntaskk\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "Techannnntaskk\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -149,11 +234,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\techantask2\\Techannnntaskk\\Techannnntaskk\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Techannnntaskk\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\techantask2\\Techannnntaskk\\Techannnntaskk\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Techannnntaskk\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAHkJAAAAAAAAAAAAABcJAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-01T15:32:23.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Techantaskk\\Techannnntaskk\\Techannnntaskk\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\techantask2\\Techannnntaskk\\Techannnntaskk\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Techannnntaskk\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Techantaskk\\Techannnntaskk\\Techannnntaskk\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\techantask2\\Techannnntaskk\\Techannnntaskk\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Techannnntaskk\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAG8CAAAAAAAAAAAgwJUCAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -162,24 +260,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Techantaskk\\Techannnntaskk\\Techannnntaskk\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Techannnntaskk\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Techantaskk\\Techannnntaskk\\Techannnntaskk\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Techannnntaskk\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAPwIAAAAAAAAAAAwwBcJAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-01T15:32:23.753Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Classtime\\Desktop\\Techantaskk\\Techannnntaskk\\Techannnntaskk\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ClassTime\\Desktop\\techantask2\\Techannnntaskk\\Techannnntaskk\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Techannnntaskk\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Classtime\\Desktop\\Techantaskk\\Techannnntaskk\\Techannnntaskk\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ClassTime\\Desktop\\techantask2\\Techannnntaskk\\Techannnntaskk\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Techannnntaskk\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
