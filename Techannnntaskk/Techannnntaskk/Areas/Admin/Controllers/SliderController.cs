@@ -42,9 +42,13 @@ namespace Techannnntaskk.Areas.Admin.Controllers
             return View();
         }
         [HttpPost]
+        [ValidateAntiForgeryToken]
         public async Task<IActionResult>Create(SliderCreateVM model)
         {
-            return Ok
+            if(!ModelState.IsValid)
+                return View();
+            return Ok();
+
         }
     }
 }
