@@ -8,8 +8,7 @@ namespace Techannnntaskk
         {
 
             var builder = WebApplication.CreateBuilder(args);
-            builder.Services.AddSingleton<Test>();
-            builder.Services.AddScoped<Test2>();
+            builder.Services.AddScoped<INotify, TelegramNotification>();
             // Add services to the container.
             builder.Services.AddControllersWithViews();
             

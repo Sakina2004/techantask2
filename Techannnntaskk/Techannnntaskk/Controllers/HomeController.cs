@@ -6,18 +6,17 @@ namespace Techannnntaskk.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly Test _test;
-        private readonly Test2 _test2;
+     
+        private readonly INotify _notification;
        
-        public HomeController(Test t,Test2 test2)
+        public HomeController(INotify _notification)
         {
-            _test = t;
-            _test2 = test2;
+            _notification = _notification; 
         }
 
         public IActionResult Index()
         {
-            _test2.Salam();
+            _notification.Send("0773297427");
             return View();
         }
 
