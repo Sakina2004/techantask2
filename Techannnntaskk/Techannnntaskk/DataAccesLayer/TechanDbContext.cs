@@ -5,10 +5,11 @@ namespace Techannnntaskk.DataAccesLayer;
 
 public class TechanDbContext:DbContext 
 {
-    public DbSet<Slider> Sliders { get; set; } 
-    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+    public TechanDbContext(DbContextOptions options) : base(options)
     {
-        optionsBuilder.UseSqlServer("Server=localhost\\SQLEXPRESS;;Database=Techan;Trusted_Connection=true;TrustServerCertificate=true");
-        base.OnConfiguring(optionsBuilder);
     }
+
+
+    public DbSet<Slider> Sliders { get; set; } 
+  
 }
