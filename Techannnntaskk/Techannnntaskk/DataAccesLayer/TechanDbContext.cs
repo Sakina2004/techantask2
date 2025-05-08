@@ -3,13 +3,26 @@ using Techannnntaskk.Models;
 
 namespace Techannnntaskk.DataAccesLayer;
 
-public class TechanDbContext:DbContext 
+public class TechanDbContext : DbContext
 {
-    public TechanDbContext(DbContextOptions options) : base(options)
+    public TechanDbContext(DbContextOptions option):base(option)
     {
+        
     }
+   
+    public DbSet<Slider> Sliders { get; set; }
+    //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+    //{
+    //    optionsBuilder.UseSqlServer("Server=.\\SQlEXPRESS;Database = Techan;Truted_Connection = true;TrustServerCertificate=true");
+    //    base.OnConfiguring(optionsBuilder);
+    // }
+}   
+    
 
 
-    public DbSet<Slider> Sliders { get; set; } 
+ 
+
+
+
   
-}
+

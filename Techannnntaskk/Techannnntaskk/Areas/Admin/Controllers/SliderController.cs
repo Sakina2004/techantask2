@@ -8,8 +8,9 @@ using Techannnntaskk.ViewModels.Sliders;
 namespace Techannnntaskk.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    public class SliderController(TechanDbContext context) : Controller
+    public class SliderController (TechanDbContext context) : Controller
     {
+        
         public async Task<IActionResult> Index()
         {
             List<Slider> datas = [];

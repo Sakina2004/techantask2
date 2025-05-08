@@ -8,7 +8,14 @@ namespace Techannnntaskk
         {
 
             var builder = WebApplication.CreateBuilder(args);
-            builder.Services.AddScoped<INotify, TelegramNotification>();
+            builder.Services.AddScoped<INotify, SmsNotification>();
+            builder.Services.AddDbContext<TechanDbContext>(opt=>
+            {
+
+                opt.UseSqlServer(builder.Configuration.GetConnectionString("MSSQL"));
+            });
+    
+           
             // Add services to the container.
             builder.Services.AddControllersWithViews();
             
