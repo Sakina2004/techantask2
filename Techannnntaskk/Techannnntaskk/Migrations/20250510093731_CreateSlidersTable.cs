@@ -5,7 +5,7 @@
 namespace Techannnntaskk.Migrations
 {
     /// <inheritdoc />
-    public partial class CreatedSlidersTable : Migration
+    public partial class CreateSlidersTable : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)

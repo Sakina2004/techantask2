@@ -8,14 +8,14 @@ using Techannnntaskk.ViewModels.Sliders;
 namespace Techannnntaskk.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    public class SliderController (TechanDbContext context) : Controller
+    public class SliderController (TechanDbContext _context) : Controller
     {
         
         public async Task<IActionResult> Index()
         {
             List<Slider> datas = [];
 
-            datas = await context.Sliders.ToListAsync();
+            datas = await _context.Sliders.ToListAsync();
             List<SliderGetVM> sliders = [];
             foreach (var item in datas)
             {
@@ -50,9 +50,9 @@ namespace Techannnntaskk.Areas.Admin.Controllers
             slider.Offer = model.Offer;
             slider.ImageUrl = model.ImageUrl;
             slider.Link = model.Link;
-          
-                await context.Sliders.AddAsync(slider);
-                await context.SaveChangesAsync();
+
+            await _context.Sliders.AddAsync(slider);
+            await _context.SaveChangesAsync();
 
             return RedirectToAction(nameof(Index));
         }
@@ -61,15 +61,39 @@ namespace Techannnntaskk.Areas.Admin.Controllers
         {
             if (!id.HasValue || id.Value < 1) return BadRequest();
 
-            var entity = await context.Sliders.FirstOrDefaultAsync(x => x.Id == id);
+            var entity = await _context.Sliders.FirstOrDefaultAsync(x => x.Id == id);
 
             if (entity is null)
                 return NotFound();
 
-             context.Sliders.Remove(entity);
-
-            await context.SaveChangesAsync();
+             _context.Sliders.Remove(entity);
+         
             return RedirectToAction(nameof(Index));
         }
+        [HttpGet]
+        public async Task<IActionResult>Update(int? id)
+        {
+            if (id.HasValue && id < 1) return BadRequest();
+            var entity = await _context.Sliders
+                .Select(x=>new SliderUpdateVM
+            {
+Id=x.Id,
+BigTitle=x.BigTitle,
+Title=x.Title,
+ImageUrl=x.ImageUrl,
+Link=x.Link,
+LittleTitle=x.LittleTitle,
+Offer=x.Offer
+            })
+                .FirstOrDefaultAsync(x => x.Id == id);
+            if (entity is null)
+                return NotFound();
+            return View(entity);
+            {
+                
+            }
+        }
     }
+ 
 }
+

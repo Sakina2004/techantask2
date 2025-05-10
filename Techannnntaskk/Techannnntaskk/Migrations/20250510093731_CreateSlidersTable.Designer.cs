@@ -11,8 +11,8 @@ using Techannnntaskk.DataAccesLayer;
 namespace Techannnntaskk.Migrations
 {
     [DbContext(typeof(TechanDbContext))]
-    [Migration("20250505130651_CreatedSlidersTable")]
-    partial class CreatedSlidersTable
+    [Migration("20250510093731_CreateSlidersTable")]
+    partial class CreateSlidersTable
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
