@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Techannnntaskk.DataAccesLayer;
 
@@ -10,9 +11,11 @@ using Techannnntaskk.DataAccesLayer;
 namespace Techannnntaskk.Migrations
 {
     [DbContext(typeof(TechanDbContext))]
-    partial class TechanDbContextModelSnapshot : ModelSnapshot
+    [Migration("20250511015755_CreatedCategoriesTable")]
+    partial class CreatedCategoriesTable
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

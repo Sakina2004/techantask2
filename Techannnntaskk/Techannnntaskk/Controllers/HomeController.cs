@@ -9,10 +9,10 @@ namespace Techannnntaskk.Controllers
 
         //private readonly INotify _notification;
 
-        public HomeController()
-        {
-            //_notification = _notification;
-        }
+        //public HomeController()
+        //{
+        //    //_notification = _notification;
+        //}
 
         public IActionResult Index()
         {

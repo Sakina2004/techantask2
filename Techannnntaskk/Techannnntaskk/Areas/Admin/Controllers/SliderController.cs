@@ -60,14 +60,9 @@ namespace Techannnntaskk.Areas.Admin.Controllers
         public async Task<IActionResult> Delete(int? id)
         {
             if (!id.HasValue || id.Value < 1) return BadRequest();
-
-            var entity = await _context.Sliders.FirstOrDefaultAsync(x => x.Id == id);
-
-            if (entity is null)
+            int result = await _context.Sliders.Where(x => x.Id == id).ExecuteDeleteAsync();
+            if (result == 0)
                 return NotFound();
-
-             _context.Sliders.Remove(entity);
-         
             return RedirectToAction(nameof(Index));
         }
         [HttpGet]
@@ -92,6 +87,24 @@ Offer=x.Offer
             {
                 
             }
+        }
+        [HttpPost]
+        public async Task<IActionResult>Update(int? id,SliderUpdateVM vm)
+        {
+            if (id.HasValue && id < 1) return BadRequest();
+            if (ModelState.IsValid)
+                return View(vm);
+            var entity = await _context.Sliders.FirstOrDefaultAsync(x => x.Id == id);
+            if (entity is null)
+                return BadRequest();
+            entity.BigTitle = vm.BigTitle;
+            entity.Title = vm.Title;
+            entity.LittleTitle = vm.LittleTitle;
+            entity.Offer = vm.Offer;
+            entity.ImageUrl = vm.ImageUrl;
+            entity.Link = vm.Link;
+            await _context.SaveChangesAsync();
+                return RedirectToAction(nameof(Index));
         }
     }
  
