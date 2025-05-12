@@ -10,8 +10,11 @@ public class TechanDbContext : DbContext
         
     }
    
+    public DbSet<Product> Products { get; set; }
+    public DbSet<Brand> Brands { get; set; }
     public DbSet<Slider> Sliders { get; set; }
     public DbSet<Category> Categories { get; set; }
+
     //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     //{
     //    optionsBuilder.UseSqlServer("Server=.\\SQlEXPRESS;Database = Techan;Truted_Connection = true;TrustServerCertificate=true");
