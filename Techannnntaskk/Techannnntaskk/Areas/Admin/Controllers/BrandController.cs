@@ -23,5 +23,16 @@ namespace Techannnntaskk.Areas.Admin.Controllers
         {
             return View();
         }
+        [HttpPost]
+        public async Task<IActionResult>Create(BrandCreateVM vm)
+        {
+            if(vm.ImageFile.Length/1024>200)
+            {
+                ModelState.AddModelError()
+            }
+            if (!ModelState.IsValid)
+                return View(vm);
+            return View();
+        }
     }
 }

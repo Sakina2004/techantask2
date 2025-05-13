@@ -791,7 +791,6 @@ C:\Users\AA\Desktop\techantask2\Techannnntaskk\Techannnntaskk\obj\Debug\net8.0\s
 C:\Users\AA\Desktop\techantask2\Techannnntaskk\Techannnntaskk\obj\Debug\net8.0\Techannn.826947E4.Up2Date
 C:\Users\AA\Desktop\techantask2\Techannnntaskk\Techannnntaskk\obj\Debug\net8.0\Techannnntaskk.genruntimeconfig.cache
 C:\Users\AA\Desktop\techantask2\Techannnntaskk\Techannnntaskk\obj\Debug\net8.0\ref\Techannnntaskk.dll
-C:\Users\Classtime\Desktop\techantask2\Techannnntaskk\Techannnntaskk\bin\Debug\net8.0\System.Formats.Asn1.dll
 C:\Users\First\Desktop\techantask2\Techannnntaskk\Techannnntaskk\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\First\Desktop\techantask2\Techannnntaskk\Techannnntaskk\bin\Debug\net8.0\appsettings.json
 C:\Users\First\Desktop\techantask2\Techannnntaskk\Techannnntaskk\bin\Debug\net8.0\Techannnntaskk.staticwebassets.runtime.json
