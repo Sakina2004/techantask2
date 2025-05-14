@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.ModelBinding;
 using Microsoft.EntityFrameworkCore;
 using Techannnntaskk.DataAccesLayer;
 using Techannnntaskk.ViewModels.Brands;
@@ -26,9 +27,9 @@ namespace Techannnntaskk.Areas.Admin.Controllers
         [HttpPost]
         public async Task<IActionResult>Create(BrandCreateVM vm)
         {
-            if(vm.ImageFile.Length/1024>200)
+            if (vm.ImageFile.Length / 1024 > 2)
             {
-                ModelState.AddModelError()
+                ModelState.AddModelError("ImageFile", "Shekilin olcusu 2kb-dan chox olmamalidir!");
             }
             if (!ModelState.IsValid)
                 return View(vm);
